@@ -1,0 +1,15 @@
+body{
+	text-align: center;
+	background-image: url(../img/fundo2.jpg);
+	background-repeat: repeat;
+}
+
+h2, h3{
+	margin: 1rem;
+	color: black;
+}
+
+li{
+	margin: 0.35rem;
+	color: black;
+}
